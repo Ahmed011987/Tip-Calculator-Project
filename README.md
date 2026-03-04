@@ -11,5 +11,7 @@ A simple python based tip calculator
 - Mathematical operators
 - Number manipulation
 
-- ### How to run
-Run the Python file and follow the prompts in the terminal.
+Try it live on Replit:
+https://replit.com/@ruknuddinahmed4/Tip-Calculator-Project
+
+
