@@ -1,3 +1,8 @@
+# Python Pizza Order Program
+# Author: Ahmed
+# Description: Calculates the final pizza bill based on size, pepperoni, and extra cheese selections.
+# Concepts: Conditional statements, nested logic, user input
+
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M or L: ")
 pepperoni = input("Do you want pepperoni on your pizza? Y or N: ")
