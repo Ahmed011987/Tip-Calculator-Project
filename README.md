@@ -12,6 +12,4 @@ A simple python based tip calculator
 - Number manipulation
 
 Try it live on Replit:
-https://replit.com/@ruknuddinahmed4/Tip-Calculator-Project
-
-
+https://replit.com/@ruknuddinahmed4/Tip-Calculator-Project-1
